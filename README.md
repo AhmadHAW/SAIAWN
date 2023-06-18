@@ -1,4 +1,4 @@
 # Solcial Attention Is All We need
-![alt text](https://github.com/AhmadHAW/SAIAWN/poster.png?raw=true)
+![SAIAWN poster presentation](https://github.com/AhmadHAW/SAIAWN/poster.png?raw=true)
 
 
